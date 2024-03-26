@@ -8,3 +8,7 @@ xgboost
 seaborn
 torch
 tensorflow
+transformers
+tf_keras
+pydot
+pydotplus
